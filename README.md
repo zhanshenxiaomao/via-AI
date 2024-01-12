@@ -6,3 +6,5 @@
 
 ### 在安卓手机上体验AI 
 由FusionApp提供支持
+
+特别鸣谢[ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
